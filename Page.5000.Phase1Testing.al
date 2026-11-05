@@ -1,4 +1,4 @@
-//Now successfully  uploaded
+//Now successfully  uploaded - yes, Pull & push option i have checked
 page 67000 MyPage
 {
     PageType = Card;
